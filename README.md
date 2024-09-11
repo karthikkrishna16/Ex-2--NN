@@ -50,6 +50,8 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
 DEVELOPED BY: KARTHIK KRISHNA TH
+
+
 REGISTOR NO:212223240067
 
 ```
