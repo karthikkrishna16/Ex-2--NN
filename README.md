@@ -125,8 +125,17 @@ plt.show()
 ```
 # OUTPUT:
 ![Screenshot 2024-09-11 113208](https://github.com/user-attachments/assets/79b5c39a-60a1-40de-860b-08259348f766)
+
+
+
 ![Screenshot 2024-09-11 113222](https://github.com/user-attachments/assets/14d86190-3dbe-4654-a071-3df3094ee6cd)
+
+
+
 ![Screenshot 2024-09-11 113239](https://github.com/user-attachments/assets/7c31d550-217e-4a2f-aba5-666ffeb198ff)
+
+
+
 ![Screenshot 2024-09-11 113245](https://github.com/user-attachments/assets/22cc1598-e4dd-417e-aec1-d633c8b9eb6e)
 
 
